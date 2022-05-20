@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="brsl" type="Turtlebot_environment.py" name="environment" output="screen" />
+
+  <node pkg="brsl" type="Turtlebot_brsl.py" name="Turtlebot_BRSL" output="screen" />
+</launch>

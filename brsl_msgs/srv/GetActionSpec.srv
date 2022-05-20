@@ -1,0 +1,5 @@
+# There is no msg for this service
+---
+# Response
+float32[] minimum # Minumum limit for the action spec.
+float32[] maximum # Maximum limit for the action spec.

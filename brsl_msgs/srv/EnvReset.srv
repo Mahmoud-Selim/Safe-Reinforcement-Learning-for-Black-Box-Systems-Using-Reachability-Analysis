@@ -1,0 +1,5 @@
+# There is no msg for this service
+---
+# Response
+float32[] observation # Observation after resetting the environment.
+

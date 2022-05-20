@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="brsl" type="Quadrotor_environment.py" name="environment" output="screen" />
+
+  <node pkg="brsl" type="Quadrotor_vanilla.py" name="Quadrotor_Vanilla" output="screen" />
+</launch>

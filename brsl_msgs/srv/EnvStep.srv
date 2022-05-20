@@ -1,0 +1,10 @@
+# There is no msg for this service
+float32[] action # list containing the actions that should be applied to the environment.
+---
+# Response
+float32[] observation # Observation after applying that action into the environment.
+float32 reward      # Reward that results from applying that action into the environment.
+bool episode_ended    # Flag that tells whether the episode has ended or not.
+bool collision
+bool arrived
+bool time_elapsed

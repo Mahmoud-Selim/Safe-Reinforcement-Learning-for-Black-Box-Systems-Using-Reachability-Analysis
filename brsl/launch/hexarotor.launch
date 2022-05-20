@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="brsl" type="Hexarotor_environment.py" name="environment" output="screen" />
+
+  <node pkg="brsl" type="Hexarotor_vanilla.py" name="Hexarotor_Vanilla" output="screen" />
+</launch>
