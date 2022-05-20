@@ -1,5 +1,5 @@
 # Safe-Reinforcement-Learning-for-Black-Box-Systems-Using-Reachability-Analysis
-This repository contains the code for the paper (Safe Reinforcement Learning Using Black-Box Reachability Analy)[https://arxiv.org/abs/2204.07417].
+This repository contains the code for the paper [Safe Reinforcement Learning Using Black-Box Reachability Analy](https://arxiv.org/abs/2204.07417).
 
 ## Installation
 The repository provides two ros packages: brsl and brsl_msgs. To get everything up and running, we need to install ros and some other dependencies. Everything is tested on ubuntu 20.04 LTS
