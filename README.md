@@ -3,7 +3,7 @@ This repository contains the code for the paper [Safe Reinforcement Learning Usi
 
 # Short Video for describing the idea
 
-[![Seminar](https://img.youtube.com/vi/U50VOH979vE&list=PL7bkcpwNaUjz-S1b5KBzpgCZ1SP4DXsoi/0.jpg)](https://www.youtube.com/watch?v=U50VOH979vE&list=PL7bkcpwNaUjz-S1b5KBzpgCZ1SP4DXsoi)
+[![Video](https://img.youtube.com/vi/U50VOH979vE/0.jpg)](https://www.youtube.com/watch?v=U50VOH979vE)
 
 
 ## Installation
